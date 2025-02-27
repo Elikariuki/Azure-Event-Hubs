@@ -1,5 +1,5 @@
 # Azure-Event-Hubs
-Serverless functions test lab on an outdated version of .NET 
+Serverless functions test lab on an outdated version of .NET on Azure Portal
 
 ## Create resources 
 1. Create RG
